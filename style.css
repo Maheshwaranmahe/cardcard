@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.card{
+    width: 20%;
+    border:5px solid black;
+    text-align: center;
+    margin:30px auto;
+}
+.text{
+    font-size: x-large;
+    color: black;
+}
+button {
+    display: inline-block;
+    padding: 7px;
+    color: white;
+    background-color: red;
+    margin-left: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+}
+button:hover {
+    background-color: rgb(177, 162, 162);
+}
